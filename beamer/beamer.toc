@@ -1,0 +1,8 @@
+\beamer@sectionintoc {2}{Problem}{3}{0}{1}
+\beamer@sectionintoc {3}{Solution}{4}{0}{2}
+\beamer@subsectionintoc {3}{1}{Linear Equation}{4}{0}{2}
+\beamer@subsectionintoc {3}{2}{Matrix Equation}{6}{0}{2}
+\beamer@subsectionintoc {3}{3}{Row Reduction}{7}{0}{2}
+\beamer@subsectionintoc {3}{4}{Balanced Equation}{9}{0}{2}
+\beamer@subsectionintoc {3}{5}{Code}{11}{0}{2}
+\beamer@subsectionintoc {3}{6}{Code}{13}{0}{2}
