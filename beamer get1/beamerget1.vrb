@@ -1,0 +1,10 @@
+
+\lstset{
+        language = Python,
+        basicstyle=\ttfamily\tiny,
+        keywordstyle=\color{blue},
+        stringstyle=\color{green},
+        commentstyle=\color{gray},
+        tabsize=2
+    }
+    \lstinputlisting{./codes/plot.py}
